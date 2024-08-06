@@ -1,4 +1,6 @@
 new file in feature
+<<<<<<< HEAD
 change2
+=======
 editing in main before rebase
-hello
+>>>>>>> cf5ee42 (45)
