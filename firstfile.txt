@@ -2,3 +2,4 @@ made this file
 trying to check what if stash isnt applied
 changed content
 changed1
+changed2
